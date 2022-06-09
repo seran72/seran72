@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seran72
-- 🚀IT OPS Intern @ TESLA
+- 🚀 IT OPS Intern @ TESLA
 - 👀 I’m interested in Computers & Science...and people.
 - 🌱 I’m currently learning MERN Stack, ML, and Web App Pentesting...
 - 💞️ I’m looking for new opportunities in SWE, Cyber Sec and Data Science...
